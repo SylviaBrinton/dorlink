@@ -7,5 +7,7 @@
     <li style='font-family: "Courier New", courier;'>Share your URL with confidence.</li>
 </ol>
 <p><span style="font-family: Courier New, courier;">Dorlink blog:</span></p>
-<p><span style="font-family: Courier New, courier;">1.<strong> </strong><a href="https://review.dorlink.me/profilemate-review/" rel="noopener noreferrer" target="_blank"><strong>ProfileMate Review</strong></a> &ndash; Generate Leads For Your Business?</span></p>
-<p><br></p>
+<ol>
+    <li><a href="https://review.dorlink.me/profilemate-review/">ProfileMate Review</a></li>
+    <li><a href="https://review.dorlink.me/sketch-genius-review/">Sketch Genius Review</a></li>
+</ol>
