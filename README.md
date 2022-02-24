@@ -7,7 +7,7 @@
     <li style='font-family: "Courier New", courier;'>Share your URL with confidence.</li>
 </ol>
 <p><span style="font-family: Courier New, courier;">Dorlink blog:</span></p>
-<ol>
-    <li><a href="https://review.dorlink.me/profilemate-review/">ProfileMate Review</a></li>
-    <li><a href="https://review.dorlink.me/sketch-genius-review/">Sketch Genius Review</a></li>
-</ol>
+<p><strong><u>ProfileMate Review:</u></strong></p>
+<p>You can generate leads and email addresses for your business. ProfileMate is the number one <a href="https://review.dorlink.me/profilemate-review/">Instagram Growth tool</a> that will help you build a business ethically and get thousands of emails, insights on competitors&apos; fans without needing to beg or bribe anyone.</p>
+<p><strong><u>Sketch Genius Review:</u></strong></p>
+<p>Sketch Genius can transform your old and boring photos into visually perfect 3d captivating drawings with <a href="https://review.dorlink.me/sketch-genius-review/">animated sketch videos</a> using various backgrounds, images, and styles in a few seconds.</p>
